@@ -1,0 +1,1 @@
+export {usePatientsService} from "./usePatientsService";
